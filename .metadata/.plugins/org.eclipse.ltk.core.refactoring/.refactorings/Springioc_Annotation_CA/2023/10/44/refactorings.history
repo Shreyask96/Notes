@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Springioc_annotations.IceCream&apos; to &apos;Alcohol&apos;&#x0D;&#x0A;- Original project: &apos;Springioc_Annotation_CA&apos;&#x0D;&#x0A;- Original element: &apos;Springioc_annotations.IceCream&apos;&#x0D;&#x0A;- Renamed element: &apos;Springioc_annotations.Alcohol&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;IceCream&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;Springioc_annotations{IceCream.java[IceCream" matchStrategy="1" name="Alcohol" qualified="false" references="true" similarDeclarations="false" stamp="1698661092159" textual="false" version="1.0"/>
+</session>

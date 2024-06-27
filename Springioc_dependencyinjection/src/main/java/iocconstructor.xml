@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    
+    <bean class="Springioc_constructor_di.Doctor" id="doc" scope="singleton">
+      <constructor-arg index="0" value="ShankarNarayan"></constructor-arg>
+      <constructor-arg index="1" value="jsp"></constructor-arg>
+      <constructor-arg index="2" value="Rajajinagar"></constructor-arg>
+      <constructor-arg index="3" value="9084556474"></constructor-arg> 
+        
+    </bean>
+    
+    <bean class="Springioc_constructor_di.Doctor" id="doc1" scope="singleton">
+      <constructor-arg index="0" value="Rahul"></constructor-arg>
+      <constructor-arg index="1" value="jsp"></constructor-arg>
+      <constructor-arg index="2" value="Rajajinagar"></constructor-arg>
+      <constructor-arg index="3" value="9084556474"></constructor-arg> 
+        
+    </bean>
+</beans>

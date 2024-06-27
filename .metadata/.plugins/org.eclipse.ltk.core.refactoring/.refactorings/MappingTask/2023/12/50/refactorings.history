@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Dao.insert&apos; to &apos;insertoperation&apos;&#x0D;&#x0A;- Original project: &apos;MappingTask&apos;&#x0D;&#x0A;- Original element: &apos;Dao.insert&apos;&#x0D;&#x0A;- Renamed element: &apos;Dao.insertoperation&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;insert&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;Dao{insert.java[insert" matchStrategy="1" name="insertoperation" qualified="false" references="true" similarDeclarations="false" stamp="1702363534721" textual="false" version="1.0"/>
+</session>

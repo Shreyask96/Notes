@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;sevlets_get_post_method/src/main/webapp/doget.html&apos; to &apos;doGet.html&apos;" description="Rename resource &apos;doget.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/doget.html" name="doGet.html" stamp="1696962883859" updateReferences="true"/>
+</session>
